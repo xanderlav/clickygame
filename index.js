@@ -1,2 +1,0 @@
-// React NodeJS Game project
-
