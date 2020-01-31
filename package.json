@@ -1,0 +1,24 @@
+{
+  "name": "clickygame",
+  "version": "1.0.0",
+  "description": "NodeJS Reat Game ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanderlav/clickyGame.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "React"
+  ],
+  "author": "Alejandro R. Lopez Avila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xanderlav/clickyGame/issues"
+  },
+  "homepage": "https://github.com/xanderlav/clickyGame#readme"
+}
